@@ -16,3 +16,6 @@ docker-compose up --build
 ```
 
 1. ブラウザで http://localhost:3000 にアクセスしてアプリケーションを確認します。
+
+## ブランチ運用
+- Github flowで運用しています
