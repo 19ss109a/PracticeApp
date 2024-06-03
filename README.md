@@ -1,4 +1,4 @@
-# Nuxt.js と FastAPI を使用したプロジェクト
+# 概要
 
 このプロジェクトは、Nuxt.jsとFastAPIを組み合わせたWebアプリケーションです。
 
