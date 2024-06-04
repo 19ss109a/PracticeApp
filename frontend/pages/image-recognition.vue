@@ -43,7 +43,7 @@ export default {
           return;
         }
         // FastAPIのエンドポイント
-        const endpoint = process.env.fastApiEndpoint + 'predict/'
+        const endpoint = process.env.fastApiEndpoint + 'ir/predict/'
 
         // FormDataオブジェクトを作成して画像を追加
         const formData = new FormData()
